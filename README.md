@@ -4,5 +4,5 @@ This GitHub repo hosts a custom CNN model for wildlife detection, aiming to revo
 # Getting Started
 To get started with Wildlife Detection CNN, clone this repo and follow the setup instructions.
 
-```git clone [[repo-link]](https://github.com/sushantkothari/wildlife-detection-using-custom-cnn-model.git)https://github.com/sushantkothari/wildlife-detection-using-custom-cnn-model.git
+```git clone [[[repo-link](https://github.com/sushantkothari/wildlife-detection-using-custom-cnn-model.git)]](https://github.com/sushantkothari/wildlife-detection-using-custom-cnn-model.git)https://github.com/sushantkothari/wildlife-detection-using-custom-cnn-model.git
 ```cd wildlife-detection-cnn
